@@ -167,13 +167,13 @@ export const dataPortfolio = [
         urlGithub: "https://github.com/agogo345/nike-page",
         urlDemo: "https://agogo345.github.io/nike-page/",
     },
-    // {
-    //     id: 3,
-    //     title: "Estrategias Web",
-    //     image: "/image-3.jpg",
-    //     urlGithub: "#!",
-    //     urlDemo: "#!",
-    // },
+    {
+        id: 3,
+        title: "Db page",
+        image: "/dbpage1.png",
+        urlGithub: "https://github.com/agogo345/Cards-Db",
+        urlDemo: "https://agogo345.github.io/Cards-Db/",
+    },
     // {
     //     id: 4,
     //     title: "Ideas Creativas",
