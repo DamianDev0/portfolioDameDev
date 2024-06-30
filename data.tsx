@@ -174,13 +174,13 @@ export const dataPortfolio = [
         urlGithub: "https://github.com/agogo345/Cards-Db",
         urlDemo: "https://agogo345.github.io/Cards-Db/",
     },
-    // {
-    //     id: 4,
-    //     title: "Ideas Creativas",
-    //     image: "/image-4.jpg",
-    //     urlGithub: "#!",
-    //     urlDemo: "#!",
-    // },
+    {
+        id: 4,
+        title: "Workshop 2",
+        image: "/image.png",
+        urlGithub: "https://github.com/agogo345/workshop2-db",
+        urlDemo: "#!",
+    },
     // {
     //     id: 5,
     //     title: "Webs Impactantes",
